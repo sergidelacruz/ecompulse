@@ -106,7 +106,5 @@ df_order_items = generate_order_items(df_orders, df_products)
 df_order_items.to_csv("data/order_items.csv", index=False)
 print(f"order_items.csv saved — {df_order_items.shape}")
 
-df_orders = pd.read_csv("data/orders.csv")
-print(df_orders[df_orders["customer_id"].isin([1,2,3])].groupby("customer_id")["status"].value_counts())
 
 
