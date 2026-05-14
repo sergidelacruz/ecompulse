@@ -11,6 +11,14 @@
 
 ---
 
+## Dashboard Preview
+
+![Revenue Overview](docs/page1_revenue.png)
+![Customer Segments](docs/page2_customers.png)
+![Monthly Trend](docs/page3_trend.png)
+
+---
+
 ## The Business Problem
 
 An e-commerce company sells across 5 product categories to 200 customers in 10 European cities. The business team is flying blind:
