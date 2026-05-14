@@ -13,9 +13,9 @@
 
 ## Dashboard Preview
 
-![Revenue Overview](docs/page1_revenue.png)
-![Customer Segments](docs/page2_customers.png)
-![Monthly Trend](docs/page3_trend.png)
+![Revenue Overview](images/page1_revenue.PNG)
+![Customer Segments](images/page2_customers.PNG)
+![Monthly Trend](images/page3_trend.PNG)
 
 ---
 
