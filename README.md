@@ -1,5 +1,11 @@
 # EcomPulse — E-commerce Sales Analytics
 
+![SQL](https://img.shields.io/badge/SQL-DuckDB-yellow)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange)
+![Domain](https://img.shields.io/badge/Domain-E--commerce-green)
+![Data](https://img.shields.io/badge/Data-Synthetic-lightgrey)
+
 > **Which customers are churning? Which products drive profit? Where is revenue heading?**
 > An end-to-end analytics pipeline that turns raw e-commerce data into actionable business intelligence.
 
